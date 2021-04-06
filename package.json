@@ -1,0 +1,25 @@
+{
+  "name": "aii-skynet",
+  "version": "1.0.0",
+  "description": "Discord bot voor de Unofficial Avans Informatica Den Bosch Discord Server.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "ffmpeg-static": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AII-Informatica-Students/AII-Skynet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AII-Informatica-Students/AII-Skynet/issues"
+  },
+  "homepage": "https://github.com/AII-Informatica-Students/AII-Skynet#readme"
+}
